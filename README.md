@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @iyadarab
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me ...
+# 👋 Hi, I'm Iyad Al Arab!
 
-<!---
-iyadarab/iyadarab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **software developer** passionate about building clean, scalable systems. Currently working on **.NET backend systems**, **React apps**, and deploying solutions on **Kubernetes/AWS**.
+
+---
+
+## 🚀 About Me
+
+- 🌱 Learning more about: Event-driven architecture, microservices, and distributed caching
+- 💬 Ask me about: .NET, Clean Architecture, SQL optimization, Kubernetes, or photography 📸
+- 📷 Passionate about: Event and portrait photography — check out my shots soon!
+- 📫 How to reach me: [iyadarab360@gmail.com](mailto:iyadarab360@gmail.com)
+
+---
+
+## 🛠 Tech Stack
+
+```yaml
+Languages:   C#, JavaScript, TypeScript, Python
+Frameworks:  .NET Core, ASP.NET, React, Node.js
+Tools:       Docker, Kubernetes, Jenkins, Redis, MSSQL, Git, Yarn
+Cloud:       AWS (EKS, S3, EC2, Lamda)
+Other:       Clean Architecture, Domain-Driven Design, Agile, CI/CD
+```
+---
+
+Thanks for stopping by! 🚀 Let’s build something great together.
